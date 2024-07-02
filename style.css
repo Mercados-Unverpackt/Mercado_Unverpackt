@@ -1,0 +1,25 @@
+body {
+	color:White;
+	background-color:black;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+ ul {
+	display: flex;
+	justify content: space-between;
+	list-style-style: none;
+	align-items: center;
+	padding: 16px;
+	margin: 0;
+}
+nav ul li {
+	margin: 0 15px;
+}
+nav ul li a {
+	color: white;
+	text-decoration: none;
+	font-weight: bold;
+}
+nav ul li a: hover {
+	text-decoration: underline;
+}
